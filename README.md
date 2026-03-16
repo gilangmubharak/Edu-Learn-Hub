@@ -4,7 +4,6 @@
 This template is designed to help developers quickly build and launch online learning platforms with a clean and professional UI.
 
 🌐 *Live Demo*
-
 https://edu-learn-temp.lovable.app
 
 ## ✨ About This Template
